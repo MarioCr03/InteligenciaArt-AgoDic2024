@@ -1,2 +1,2 @@
 # InteligenciaArt-AgoDic2024
-En este repositorio se subirán más atividades y proyectos final de la clase de inteligencia Artificial 
+En este repositorio se subirán las atividades y proyectos final de la clase de inteligencia Artificial 
